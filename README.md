@@ -1,2 +1,2 @@
 # Java-Learning
-Java Fundamental And Java Web
+Java Foundation And Java Web
