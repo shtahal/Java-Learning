@@ -1,6 +1,6 @@
 # Java-Learning
 
-Java Foundation And Java Web
+Java Foundation and Java Web
 
 ## Java Foundation：
 
@@ -25,5 +25,5 @@ Java Foundation And Java Web
 
 Related Videos：[👉 Click here](https://www.bilibili.com/video/BV1uJ411k7wy?p=14) 
 
-> Tips: If you think watching the videos too slow, you can directly view my annotation and related code. It's more fast.
+> Tips: If you think watching the videos too slow, you can directly view my annotation and related code. It's more detailed.
 
