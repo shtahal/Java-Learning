@@ -1,0 +1,5 @@
+#store data
+#Thu Sep 03 18:57:02 CST 2020
+Jerry=28
+Lisa=18
+杰伦=22
